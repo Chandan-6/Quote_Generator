@@ -564,6 +564,10 @@ video {
   right: 0px;
 }
 
+.left-0 {
+  left: 0px;
+}
+
 .z-10 {
   z-index: 10;
 }
@@ -989,6 +993,10 @@ video {
 @media (max-width: 580px) {
   .sc-1\:w-\[75\%\] {
     width: 75%;
+  }
+
+  .sc-1\:w-28 {
+    width: 7rem;
   }
 
   .sc-1\:text-base {
